@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+data/
+
+# Databricks
+.dbx/
+*.dbc
+
+# Secrets
+.env
